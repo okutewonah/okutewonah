@@ -2,9 +2,6 @@
 
 ### Hi there, I'm [Okute!](https://github.com/okutewonah) 👋
 
-<a href="okutewonah#4976">
-  <img align="left" alt="Okute Wonah Discord" width="21px" src="/discord.svg" />
-</a>
 <a href="https://www.facebook.com/kuntaokute/">
   <img align="left" alt="Okute Facebook link" width="21px" src="/facebook.svg" />
 </a>
